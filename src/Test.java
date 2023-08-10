@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+@TestAnn(value = 1, test = 3)
 public class Test implements Cloneable {
 
   Object t;

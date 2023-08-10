@@ -10,12 +10,23 @@ import java.util.PriorityQueue;
 import java.util.stream.Collectors;
 
 public class Main {
+
+  private void Method() {
+    System.out.println("hello");
+  }
+
   public static void main(String[] args) throws CloneNotSupportedException {
     Map<String, Integer> map = new HashMap<>();
     map.put("Two", 2);
     map.put("One", 1);
     map.put("Five", 5);
 
+    // change 1
+
+    System.out.println(void.class);
+
+    var main = new Main();
+    main.Method();
 
     // changes
 
@@ -23,6 +34,7 @@ public class Main {
     System.out.println(map);
 
     String string="111";
+    System.out.println(new String("1") == new String("1"));
     System.out.println(string==String.valueOf("111"));
 
 

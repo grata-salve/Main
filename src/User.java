@@ -1,4 +1,4 @@
-@Deprecated
+
 public class User {
 
 }
