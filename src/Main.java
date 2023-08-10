@@ -25,6 +25,8 @@ public class Main {
 
     // change 2.1
 
+    // change 3
+
     System.out.println(void.class);
 
     var main = new Main();
