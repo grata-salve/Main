@@ -23,6 +23,8 @@ public class Main {
 
     // change 1
 
+    // change 2.1
+
     System.out.println(void.class);
 
     var main = new Main();
